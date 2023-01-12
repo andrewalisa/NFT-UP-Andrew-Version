@@ -1,0 +1,39 @@
+{
+  "name": "The Lord Nube #2",
+  "description": "The Lord Nube Collections",
+  "image": "ipfs://fillSomething/2.png",
+  "dna": "c6fad0100f0df5d300c811c0061fa401fb74226f",
+  "edition": 2,
+  "date": 1673434789336,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Waterfall"
+    },
+    {
+      "trait_type": "Base",
+      "value": "The Lord Nube"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eye Glasses",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Top Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

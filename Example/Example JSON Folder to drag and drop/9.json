@@ -1,0 +1,39 @@
+{
+  "name": "The Lord Nube #9",
+  "description": "The Lord Nube Collections",
+  "image": "ipfs://fillSomething/9.png",
+  "dna": "565cc9a45badbe3009616d4a4fde8936c09becb5",
+  "edition": 9,
+  "date": 1673434794386,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Base",
+      "value": "The Lord Nube"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Party Apparel"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earings"
+    },
+    {
+      "trait_type": "Eye Glasses",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Top Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

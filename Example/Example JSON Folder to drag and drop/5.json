@@ -1,0 +1,39 @@
+{
+  "name": "The Lord Nube #5",
+  "description": "The Lord Nube Collections",
+  "image": "ipfs://fillSomething/5.png",
+  "dna": "4f2287675b1688401fc53ed40e6e8c090dfdb729",
+  "edition": 5,
+  "date": 1673434791357,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Base",
+      "value": "The Lord Nube"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jedi Cloth"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Glasses",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

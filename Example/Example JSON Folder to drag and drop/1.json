@@ -1,0 +1,39 @@
+{
+  "name": "The Lord Nube #1",
+  "description": "The Lord Nube Collections",
+  "image": "ipfs://fillSomething/1.png",
+  "dna": "802c8a362af90fbecf74bb6f8af71409a95cc191",
+  "edition": 1,
+  "date": 1673434788659,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Lake"
+    },
+    {
+      "trait_type": "Base",
+      "value": "The Lord Nube"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Yellow Shoes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuits"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Glasses",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Party Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
